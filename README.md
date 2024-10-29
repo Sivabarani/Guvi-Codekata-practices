@@ -1,1 +1,3 @@
-# Guvi-Codekata-practices
+# Python practices
+
+This repository contains python excercise.
